@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
     "title": "Run Script on Linux",
     "publisher": "Stephan Lüscher",
-    "description": "Run a script on linux",
+    "description": "Run a script on linux vm",
     "tags": [
         "Linux"
     ],
